@@ -1,6 +1,7 @@
 # First_Prototype
 This is my first trial of developing Game.
 Obstacle Game is a 3d Game developed in Unity 3d Game Engine.
+To play the game open the car project.exe file.
 
 About the Game:
 Player has to reach the of the Ramp without touching any of the obstalce came in between. If touched then the character body will not move.
